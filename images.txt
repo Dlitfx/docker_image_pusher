@@ -1,5 +1,6 @@
-xiuxiu10201/115
-justsong/one-api
+johngong/baidunetdisk:latest
+xiuxiu10201/115:latest
+justsong/one-api:latest
 #支持私库
 xhofe/alist:latest
 #支持指定架构
